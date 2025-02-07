@@ -67,10 +67,6 @@
   text-transform: uppercase;
 }
 
-/*
-  HEADER:
-*/
-
 .header {
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
@@ -101,10 +97,6 @@
   justify-self: end;
   align-self: center;
 }
-
-/*
-  COVER:
-*/
 
 .cover {
   margin-bottom: 180px;
@@ -161,10 +153,6 @@
   border: 1px solid #fff;
 }
 
-/*
-  LOTS:
-*/
-
 .lots {
   margin-bottom: 84px;
   padding: 0 24px;
@@ -198,7 +186,6 @@
   height: 100%;
   position: relative;
 }
-
 
 .card-list__item_film {
   background-image: url(../images/card-lot-01.jpg);
@@ -247,10 +234,6 @@
   margin-left: 40px;
 }
 
-/*
-  ABOUT:
-*/
-
 .about {
   margin-bottom: 156px;
   padding: 35px 24px 0px;
@@ -284,10 +267,6 @@
 .about__text {
   margin-bottom: 24px;
 }
-
-/*
-  FOOTER:
-*/
 
 .footer {
   padding: 0 50px 82px;
